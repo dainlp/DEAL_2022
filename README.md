@@ -5,7 +5,7 @@ This repository has a PyTorch implementation of the span-based model for named e
 Please cite this paper if you use this code. The paper can be found at <a href="https://aclanthology.org/2022.wiesp-1.9/">ACL Anthology</a>.
 
 ### Data
-* sample data can be found at data folder
+* sample data can be found in the data folder
 
 ### Experiments
-* sample script can be found at scripts folder
+* sample script can be found in the scripts folder
